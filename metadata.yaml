@@ -1,0 +1,45 @@
+_repo: Jackie-sees-a-star_74144
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schomburg, Alex
+    alias: Schomburg, Antonio Alejandro
+    birthdate: 1905
+    deathdate: 1998
+    gutenberg_agent_id: '53216'
+    url: http://www.gutenberg.org/2009/agents/53216
+    wikipedia: https://en.wikipedia.org/wiki/Alex_Schomburg
+creator:
+  author:
+    agent_name: Bradley, Marion Zimmer
+    birthdate: 1930
+    deathdate: 1999
+    gutenberg_agent_id: '8842'
+    url: http://www.gutenberg.org/2009/agents/8842
+    wikipedia: https://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+description: ''
+gutenberg_issued: '2024-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74144'
+language: en
+pgterms:marc905: 20240310134945bradley
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Supernovae -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Jackie sees a star
+url: http://www.gutenberg.org/ebooks/74144
