@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53216'
     url: http://www.gutenberg.org/2009/agents/53216
     wikipedia: https://en.wikipedia.org/wiki/Alex_Schomburg
+covers:
+- cover_type: archival
+  image_path: 74144-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradley, Marion Zimmer
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8842
     wikipedia: https://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74144#Jackie-sees-a-star
 gutenberg_issued: '2024-07-28'
 gutenberg_type: Text
 identifiers:
